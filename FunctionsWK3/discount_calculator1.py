@@ -6,5 +6,5 @@ def calculate_discount(price, discount_percent):
     else:
         return price
     
-print(calculate_discount(30000, 0.2))# 20% discount
-print(calculate_discount(40000, 0.1))# 10% discount is less than 20% returns the original price
+print(calculate_discount(30000, 0.2))#20% discount
+print(calculate_discount(40000, 0.1))#10% discount is less than 20% returns the original price
