@@ -1,3 +1,4 @@
+# Quetsion1
 # class of a tech student and child class of womenintech
 class TechStudent:
     def __init__(self, name, university, year, skills):
